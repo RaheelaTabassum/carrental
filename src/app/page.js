@@ -1,3 +1,8 @@
 export default function Home() {
-  return <h1>Welcome to App Router</h1>;
+  return (
+    <main>
+      <h1>Welcome to Next.js!</h1>
+      <p>This is your homepage.</p>
+    </main>
+  );
 }
